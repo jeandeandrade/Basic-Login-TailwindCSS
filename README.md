@@ -66,11 +66,3 @@ Antes de iniciar a instalação do projeto, verifique se você possui os seguint
 ### Execução do Projeto
 
 Depois de instalar e configurar o Tailwind CSS, você pode executar o projeto usando o comando apropriado definido em seu arquivo `package.json`, como `npm start` ou `yarn start`.
-
-### Conclusão
-
-Agora você instalou com sucesso o projeto com Tailwind CSS! Continue explorando a documentação do Tailwind para descobrir todas as funcionalidades e utilitários disponíveis para estilização de seus projetos.
-
----
-
-Você pode copiar este texto e colar diretamente no arquivo README.md do seu repositório no GitHub. Certifique-se de fornecer informações claras e concisas para garantir que os usuários possam seguir facilmente as instruções e instalar o projeto com sucesso.
